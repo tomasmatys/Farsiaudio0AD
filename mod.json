@@ -1,0 +1,9 @@
+{
+	"name": "Farsiaudio0AD",
+	"label": "Persian Language Audio",
+	"version": "1.0.0",
+	"url": "https://github.com/tomasmatys/Farsiaudio0AD",
+	"description": "Adds Persian voice-overs to 0 A.D.",
+	"dependencies": ["0ad=0.0.23"],
+	"type": "Gameplay"
+}
